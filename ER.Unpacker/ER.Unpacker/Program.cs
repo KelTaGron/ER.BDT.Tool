@@ -25,7 +25,7 @@ namespace ER.Unpacker
                 Console.ResetColor();
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine("[Examples]");
-                Console.WriteLine("    ER.Unpacker E:\\Games\\ELDER RING\\Data0.bhd D:\\Unpacked");
+                Console.WriteLine("    ER.Unpacker C:\Program Files (x86)\ELDEN RING\Game\\Data0.bhd C:\\Unpacked");
                 Console.ResetColor();
                 return;
             }
